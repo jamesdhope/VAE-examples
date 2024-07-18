@@ -1,4 +1,3 @@
-```markdown
 # Variational Autoencoder (VAE) for MNIST
 
 This repository contains a PyTorch implementation of a Variational Autoencoder (VAE) for the MNIST dataset. The VAE is a generative model that learns to encode input data into a latent space and decode it back to the original space.
@@ -77,6 +76,3 @@ After training, the model's state dictionary is saved to a file named `vae.pth`.
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 Feel free to contribute to this repository by opening issues or submitting pull requests.
-```
-
-This markdown format can be directly saved as a `README.md` file in your project directory. When viewed on platforms like GitHub, it will render as a well-formatted documentation for your VAE implementation.
